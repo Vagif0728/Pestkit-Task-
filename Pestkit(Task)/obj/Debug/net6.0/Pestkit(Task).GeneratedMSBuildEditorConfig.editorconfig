@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pestkit_Task_
+build_property.RootNamespace = Pestkit_Task_
+build_property.ProjectDir = C:\Users\User\Desktop\Pestkit(Task)\Pestkit(Task)\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Pestkit(Task)\Pestkit(Task)
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEF1dGhvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEF1dGhvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Author/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEF1dGhvclxNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Author/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEF1dGhvclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEJsb2dcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEJsb2dcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Blog/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEJsb2dcTW9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Blog/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEJsb2dcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXERlcGFydG1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXERlcGFydG1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Department/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXERlcGFydG1lbnRcTW9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXERlcGFydG1lbnRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEVtcGxveWVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEVtcGxveWVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Employee/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEVtcGxveWVlXE1vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Employee/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEVtcGxveWVlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Position/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFBvc2l0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Position/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFBvc2l0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Position/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFBvc2l0aW9uXE1vcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Position/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFBvc2l0aW9uXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Slide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFNsaWRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Tag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFRhZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFRhZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Tag/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFRhZ1xNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/Tag/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXFRhZ1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Areas/PestkitAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUGVzdGtpdEFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Department/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Project/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxNb3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/CopyRight/_CopyRightPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvcHlSaWdodFxfQ29weVJpZ2h0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/Footer/_FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3RlclxfRm9vdGVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/NavBar/_NavBarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdkJhclxfTmF2QmFyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/SpinerBar/_SpinerBarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNwaW5lckJhclxfU3BpbmVyQmFyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/TopBar/_TopBarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcEJhclxfVG9wQmFyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/Pestkit(Task)/Pestkit(Task)/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
